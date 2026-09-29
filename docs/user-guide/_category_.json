@@ -1,0 +1,9 @@
+{
+  "label": "User guide",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/user-guide",
+    "description": "How to use each part of Kaleidoscope: the chat, the map, the results table, the attribute panel and the graph explorer."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Concepts",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/concepts",
+    "description": "What Kaleidoscope does behind the scenes when it answers a question, and what that means for how you use it."
+  }
+}
