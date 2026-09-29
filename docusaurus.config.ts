@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Kaleidoscope',
   tagline: 'Kaleidoscope documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -62,8 +62,8 @@ const config: Config = {
     navbar: {
       title: 'Kaleidoscope',
       logo: {
-        alt: 'Kaleidoscope Logo',
-        src: 'img/logo.svg',
+        alt: 'U.S. Army Corps of Engineers logo',
+        src: 'img/usace-logo.png',
       },
       items: [
         {
