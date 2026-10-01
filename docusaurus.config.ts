@@ -99,7 +99,6 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} TerraFrame. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
